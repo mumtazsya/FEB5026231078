@@ -134,6 +134,8 @@ transition-timing-function: ease-out;
   border-radius: 10px;
   background: white;
   margin-bottom: 15px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  width: 800px;
 }
 .star-rating {
   color: #ffc107;
